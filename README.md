@@ -1,5 +1,5 @@
 # Amazon
-
+https://tanishka-khamesara.github.io/Amazon/amazon.html
 
 ![Screenshot (72)](https://github.com/Tanishka-khamesara/Amazon/assets/127411985/403ab4b9-2ebf-4693-abca-1927df882e0d)
 ![Screenshot (73)](https://github.com/Tanishka-khamesara/Amazon/assets/127411985/d3e77127-99c9-41f9-af62-2116cfd1fd7c)
